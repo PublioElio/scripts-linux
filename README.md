@@ -1,6 +1,6 @@
 # Linux scripting
  
-Scripts de Linux para la asignatura de **Horas de Libre Configuración** en el [Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma](https://www.juntadeandalucia.es/educacion/portals/web/formacion-profesional-andaluza/fp-grado-superior/detalle-titulo?idTitulo=51).
+Scripts de Linux para la asignatura de **Horas de Libre Configuración** del segundo año del [Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma](https://www.juntadeandalucia.es/educacion/portals/web/formacion-profesional-andaluza/fp-grado-superior/detalle-titulo?idTitulo=51).
 
 Los contenidos de esta asignatura dependen del centro donde se imparte. En este caso se han impartido clases de programación de **shell scripting**. 
 
