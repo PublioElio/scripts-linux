@@ -1,0 +1,2 @@
+Este es un texto de prueba para los ejercicios de scripting
+Contiene palabras y expresiones para probar los scripts
