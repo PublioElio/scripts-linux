@@ -1,0 +1,10 @@
+Nueva York:Estados Unidos:América del Norte
+París:Francia:Europa
+Tokio:Japón:Asia
+Sídney:Australia:Oceanía
+Ciudad del Cabo:Sudáfrica:África
+Buenos Aires:Argentina:América del Sur
+Moscú:Rusia:Europa
+Mumbai:India:Asia
+Toronto:Canadá:América del Norte
+Roma:Italia:Europa
