@@ -9,4 +9,3 @@ if [ -r "$file" ]; then
 else
     echo "No se puede leer el archivo. Verifica la ruta y los permisos."
 fi
-
