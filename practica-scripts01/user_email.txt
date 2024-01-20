@@ -1,0 +1,3 @@
+usuario1:user1@correo.es
+Margarita Pérez:mperez@hotmail.com
+Daniel Heredia:dani123@gmail.com
