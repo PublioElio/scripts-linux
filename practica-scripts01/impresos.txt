@@ -1,0 +1,9 @@
+texto.txt
+texto.txt
+texto.txt
+texto.txt
+impresos.txt
+texto.txt
+impresos.txt
+impresos.txt
+no_impresos.txt
