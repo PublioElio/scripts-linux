@@ -6,8 +6,4 @@ fi
 
 cadena1="$1";cadena2="$2"
 
-if [ "$cadena1" == "$cadena2" ]; then
-    echo "Las cadenas son iguales"
-else
-    echo "Las cadenas son diferentes"
-fi
+[ "$cadena1" = "$cadena2" ] && echo "Las cadenas son iguales" || echo "Las cadenas son diferentes"
