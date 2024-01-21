@@ -1,0 +1,2 @@
+Esto es un texto de prueba
+La finalidad de este archivo es probar los scripts
