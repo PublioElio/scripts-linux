@@ -49,7 +49,7 @@ do
         read -p "¿Quiere salir del juego? (s/n) " salir
         if [ "$salir" == "s" ]; then
             clear
-            echo -e "Finalizando el juego.\nTotal de aciertos: "$aciertos"\nTotal partidas "$partidas"";exit 1
+            echo -e "Finalizando el juego.\nTotal de aciertos: "$aciertos"\nTotal partidas "$partidas"";exit 0
         fi
     fi
 

@@ -51,7 +51,7 @@ do
         clear
         read -p "¿Está seguro de que desea salir? (s/n): " salir
         if [ $salir == "s" ]; then
-            echo "Total de opciones seleccionadas: '$contador'. Finalizando el programa";exit 1
+            echo "Total de opciones seleccionadas: '$contador'. Finalizando el programa";exit 0
         fi
         ;;
         *)
