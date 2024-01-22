@@ -1,0 +1,5 @@
+palabra
+avión
+caballo
+gato
+repisa
